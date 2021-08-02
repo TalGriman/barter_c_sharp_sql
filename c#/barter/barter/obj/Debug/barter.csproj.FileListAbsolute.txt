@@ -1,0 +1,255 @@
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\barter.dll.config
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\barter.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\barter.pdb
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\csc.exe
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\csc.exe.config
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\csc.rsp
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\csi.exe
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\csi.exe.config
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\csi.rsp
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\Microsoft.Managed.Core.targets
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.AppContext.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.Collections.Immutable.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.Console.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.IO.Compression.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.IO.FileSystem.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.IO.Pipes.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.Reflection.Metadata.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.Security.AccessControl.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.Security.Claims.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.Security.Principal.Windows.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.ValueTuple.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.Xml.XmlDocument.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.Xml.XPath.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\vbc.exe
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\vbc.exe.config
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\vbc.rsp
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\VBCSCompiler.exe
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\roslyn\VBCSCompiler.exe.config
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\Antlr3.Runtime.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\Microsoft.Web.Infrastructure.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\Newtonsoft.Json.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Net.Http.Formatting.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.Cors.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.Helpers.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.Http.Cors.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.Http.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.Http.WebHost.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.Mvc.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.Optimization.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.Razor.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.WebPages.Deployment.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.WebPages.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.WebPages.Razor.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\WebGrease.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Net.Http.Formatting.xml
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.Http.xml
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.Http.Cors.xml
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\Newtonsoft.Json.xml
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.Helpers.xml
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.Http.WebHost.xml
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.Mvc.xml
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.Optimization.xml
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.Razor.xml
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.WebPages.xml
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.WebPages.Deployment.xml
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\System.Web.WebPages.Razor.xml
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\Antlr3.Runtime.pdb
+E:\development\React_Native - ruppin\project\c#\barter\barter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\development\React_Native - ruppin\project\c#\barter\barter\obj\Debug\barter.csprojAssemblyReference.cache
+E:\development\React_Native - ruppin\project\c#\barter\barter\obj\Debug\barter.csproj.CoreCompileInputs.cache
+E:\development\React_Native - ruppin\project\c#\barter\barter\obj\Debug\barter.csproj.CopyComplete
+E:\development\React_Native - ruppin\project\c#\barter\barter\obj\Debug\barter.dll
+E:\development\React_Native - ruppin\project\c#\barter\barter\obj\Debug\barter.pdb
+D:\react_native\project\c#\barter\barter\bin\barter.dll.config
+D:\react_native\project\c#\barter\barter\bin\barter.dll
+D:\react_native\project\c#\barter\barter\bin\barter.pdb
+D:\react_native\project\c#\barter\barter\bin\roslyn\csc.exe
+D:\react_native\project\c#\barter\barter\bin\roslyn\csc.exe.config
+D:\react_native\project\c#\barter\barter\bin\roslyn\csc.rsp
+D:\react_native\project\c#\barter\barter\bin\roslyn\csi.exe
+D:\react_native\project\c#\barter\barter\bin\roslyn\csi.exe.config
+D:\react_native\project\c#\barter\barter\bin\roslyn\csi.rsp
+D:\react_native\project\c#\barter\barter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\react_native\project\c#\barter\barter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\Microsoft.Managed.Core.targets
+D:\react_native\project\c#\barter\barter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.AppContext.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.Collections.Immutable.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.Console.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.IO.Compression.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.IO.FileSystem.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.IO.Pipes.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.Reflection.Metadata.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.Security.AccessControl.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.Security.Claims.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.Security.Principal.Windows.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.ValueTuple.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.Xml.XmlDocument.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.Xml.XPath.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\react_native\project\c#\barter\barter\bin\roslyn\vbc.exe
+D:\react_native\project\c#\barter\barter\bin\roslyn\vbc.exe.config
+D:\react_native\project\c#\barter\barter\bin\roslyn\vbc.rsp
+D:\react_native\project\c#\barter\barter\bin\roslyn\VBCSCompiler.exe
+D:\react_native\project\c#\barter\barter\bin\roslyn\VBCSCompiler.exe.config
+D:\react_native\project\c#\barter\barter\bin\Antlr3.Runtime.dll
+D:\react_native\project\c#\barter\barter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\react_native\project\c#\barter\barter\bin\Microsoft.Web.Infrastructure.dll
+D:\react_native\project\c#\barter\barter\bin\Newtonsoft.Json.dll
+D:\react_native\project\c#\barter\barter\bin\System.Net.Http.Formatting.dll
+D:\react_native\project\c#\barter\barter\bin\System.Web.Cors.dll
+D:\react_native\project\c#\barter\barter\bin\System.Web.Helpers.dll
+D:\react_native\project\c#\barter\barter\bin\System.Web.Http.Cors.dll
+D:\react_native\project\c#\barter\barter\bin\System.Web.Http.dll
+D:\react_native\project\c#\barter\barter\bin\System.Web.Http.WebHost.dll
+D:\react_native\project\c#\barter\barter\bin\System.Web.Mvc.dll
+D:\react_native\project\c#\barter\barter\bin\System.Web.Optimization.dll
+D:\react_native\project\c#\barter\barter\bin\System.Web.Razor.dll
+D:\react_native\project\c#\barter\barter\bin\System.Web.WebPages.Deployment.dll
+D:\react_native\project\c#\barter\barter\bin\System.Web.WebPages.dll
+D:\react_native\project\c#\barter\barter\bin\System.Web.WebPages.Razor.dll
+D:\react_native\project\c#\barter\barter\bin\WebGrease.dll
+D:\react_native\project\c#\barter\barter\bin\System.Net.Http.Formatting.xml
+D:\react_native\project\c#\barter\barter\bin\System.Web.Http.xml
+D:\react_native\project\c#\barter\barter\bin\System.Web.Http.Cors.xml
+D:\react_native\project\c#\barter\barter\bin\Newtonsoft.Json.xml
+D:\react_native\project\c#\barter\barter\bin\System.Web.Helpers.xml
+D:\react_native\project\c#\barter\barter\bin\System.Web.Http.WebHost.xml
+D:\react_native\project\c#\barter\barter\bin\System.Web.Mvc.xml
+D:\react_native\project\c#\barter\barter\bin\System.Web.Optimization.xml
+D:\react_native\project\c#\barter\barter\bin\System.Web.Razor.xml
+D:\react_native\project\c#\barter\barter\bin\System.Web.WebPages.xml
+D:\react_native\project\c#\barter\barter\bin\System.Web.WebPages.Deployment.xml
+D:\react_native\project\c#\barter\barter\bin\System.Web.WebPages.Razor.xml
+D:\react_native\project\c#\barter\barter\bin\Antlr3.Runtime.pdb
+D:\react_native\project\c#\barter\barter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\react_native\project\c#\barter\barter\obj\Debug\barter.csprojAssemblyReference.cache
+D:\react_native\project\c#\barter\barter\obj\Debug\barter.csproj.CoreCompileInputs.cache
+D:\react_native\project\c#\barter\barter\obj\Debug\barter.csproj.CopyComplete
+D:\react_native\project\c#\barter\barter\obj\Debug\barter.dll
+D:\react_native\project\c#\barter\barter\obj\Debug\barter.pdb
+D:\react_native\try_navigation\project\c#\barter\barter\bin\barter.dll.config
+D:\react_native\try_navigation\project\c#\barter\barter\bin\barter.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\barter.pdb
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\csc.exe
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\csc.exe.config
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\csc.rsp
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\csi.exe
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\csi.exe.config
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\csi.rsp
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\Microsoft.Managed.Core.targets
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.AppContext.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.Collections.Immutable.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.Console.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.IO.Compression.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.IO.FileSystem.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.IO.Pipes.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.Reflection.Metadata.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.Security.AccessControl.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.Security.Claims.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.Security.Principal.Windows.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.ValueTuple.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.Xml.XmlDocument.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.Xml.XPath.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\vbc.exe
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\vbc.exe.config
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\vbc.rsp
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\VBCSCompiler.exe
+D:\react_native\try_navigation\project\c#\barter\barter\bin\roslyn\VBCSCompiler.exe.config
+D:\react_native\try_navigation\project\c#\barter\barter\bin\Antlr3.Runtime.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\Microsoft.Web.Infrastructure.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\Newtonsoft.Json.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Net.Http.Formatting.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.Cors.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.Helpers.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.Http.Cors.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.Http.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.Http.WebHost.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.Mvc.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.Optimization.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.Razor.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.WebPages.Deployment.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.WebPages.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.WebPages.Razor.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\WebGrease.dll
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Net.Http.Formatting.xml
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.Http.xml
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.Http.Cors.xml
+D:\react_native\try_navigation\project\c#\barter\barter\bin\Newtonsoft.Json.xml
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.Helpers.xml
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.Http.WebHost.xml
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.Mvc.xml
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.Optimization.xml
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.Razor.xml
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.WebPages.xml
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.WebPages.Deployment.xml
+D:\react_native\try_navigation\project\c#\barter\barter\bin\System.Web.WebPages.Razor.xml
+D:\react_native\try_navigation\project\c#\barter\barter\bin\Antlr3.Runtime.pdb
+D:\react_native\try_navigation\project\c#\barter\barter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\react_native\try_navigation\project\c#\barter\barter\obj\Debug\barter.csprojAssemblyReference.cache
+D:\react_native\try_navigation\project\c#\barter\barter\obj\Debug\barter.csproj.CoreCompileInputs.cache
+D:\react_native\try_navigation\project\c#\barter\barter\obj\Debug\barter.csproj.CopyComplete
+D:\react_native\try_navigation\project\c#\barter\barter\obj\Debug\barter.dll
+D:\react_native\try_navigation\project\c#\barter\barter\obj\Debug\barter.pdb
